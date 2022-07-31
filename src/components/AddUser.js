@@ -93,7 +93,7 @@ function AddUsers() {
           />
         </div>
         <div>
-          <label>Height(meter)</label>
+          <label>Height(cm)</label>
           <input
             type="number"
             value={height}
